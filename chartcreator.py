@@ -1,7 +1,6 @@
 """
-This code creates bar charts based on a pivot table that uses data from a given workbook. It saves every worksheet from the workbook as separate excel workbook that includes a table and a chart.
-
-@author: Oleksandra Kravchenko
+This code creates bar charts based on a pivot table that uses data from a given workbook. 
+It saves every worksheet from the workbook as separate excel workbook that includes a table and a chart.
 """ 
 import pandas as pd
 import matplotlib.pyplot as plt
